@@ -1,0 +1,1 @@
+AcuseEquipo.blade.php
